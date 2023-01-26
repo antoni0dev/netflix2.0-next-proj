@@ -1,4 +1,4 @@
-const key = '3409c28ac19b36e901577e10ae058473'
+const key = process.env.NEXT_PUBLIC_IMDB_API_KEY
 
 const requests = [
     {
